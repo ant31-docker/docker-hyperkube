@@ -1,3 +1,5 @@
+build/hyperkube
+build/kubectl
 kube-binaries
 kubernetes
 kubernetes.tar.gz
